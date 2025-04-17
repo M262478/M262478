@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M262478
-- 👀 I’m interested in frontend development 
-- 🌱 I’m currently learning javascript 
+- 👀 I’m interested in Game development 
+- 🌱 I’m currently learning Unity 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tinashemoyo252@gmail.com 
 - 😄 Pronouns: ...
